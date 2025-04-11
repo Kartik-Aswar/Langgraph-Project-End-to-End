@@ -1,9 +1,9 @@
 from configparser import ConfigParser
 
 class Config: 
-    def __init__(self,config_file= "./source/langgraph_agent_ai/ui/uiconfigfile.ini"):
-        self.congif= ConfigParser
-        self.congif.read(config_file)
+    def __init__(self,config_file= "./source/langgraph_agentic_ai/ui/uiconfigfile.ini"):
+        self.config= ConfigParser()
+        self.config.read(config_file)
     
     def get_llm_options(self):
         return self.config["DEFAULT"].get("LLM_OPTIONS").split(", ")

@@ -25,18 +25,20 @@ Till now :
 
 1- HuggingFace
 
-'''bash
 https://huggingface.co/spaces/Kartik-03/Langgraph_Project
-'''
-'''bash
+
 2- Streamlit 
+
 https://langgraph-project-end-to-end-jzkak7zotgqdbdazwkwqet.streamlit.app/
-'''
+
 ### API for test ( you can use your personal created api this is for test )
 
 GROQ API : 
+```bash
 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
-
+```
 
 Tavily API :
+```bash
 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
+```

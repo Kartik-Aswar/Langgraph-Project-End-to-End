@@ -15,7 +15,15 @@ short_description: Refined langgraphAgenticAI
 
 The project is in development
 
+Till now :
+1-basic chatbot 
+2-chatbot with search tool works
+
 ### You can access this at 
-'''markdown
+
+1- HuggingFace
 https://huggingface.co/spaces/Kartik-03/Langgraph_Project
-'''
+
+2- Streamlit 
+
+https://langgraph-project-end-to-end-jzkak7zotgqdbdazwkwqet.streamlit.app/
